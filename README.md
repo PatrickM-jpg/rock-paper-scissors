@@ -1,1 +1,1 @@
-# rock-paper-scissors
+rock-paper-scissors in console, best of 5!
