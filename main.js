@@ -75,11 +75,7 @@ function playRound(playerSelection, computerSelection){
         return(playRound(playerSelection, computerSelection));
     }
 
-    game();
-    game();
-    game();
-    game();
-    game();
+// removed game() that plays game five times
 
 
     console.log(`Player Score is ${playerScore}`);
